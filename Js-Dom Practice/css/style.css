@@ -1,0 +1,15 @@
+.first-color{
+    background-color: blue;
+}
+
+.second-color{
+    background-color: greenyellow;
+}
+
+.text{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 40px;
+
+}
